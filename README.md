@@ -18,3 +18,5 @@ Sitemap and wireframe -: Anon., 2017. GlooMaps. [Online]
 Images -: Pinterest, 2025.
           https://www.pinterest.com/pin/123456789/ [Accessed 20 August 2025].
 
+Part 2 
+Added style.css then called it on all of my html files tested if my website works on different devices with different screen sizes.
